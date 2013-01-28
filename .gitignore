@@ -1,0 +1,11 @@
+*.sdf
+*.opensdf
+*.exe
+*.ilk
+*.pdb
+*.psess
+*.suo
+*.vspx
+
+**/*/Debug/*
+**/*/Release/*
